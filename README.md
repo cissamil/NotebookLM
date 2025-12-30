@@ -27,5 +27,5 @@ Demonstrar o uso da **IA como apoio ao aprendizado**, aliando:
 - Pensamento crítico;
 - Aprendizagem contínua.
 
-## 🚀 Bootcamp
-Projeto desenvolvido como parte das atividades práticas do **Bootcamp da DIO**, com foco em dados, tecnologia e aplicação prática de Inteligência Artificial no processo de estudo.
+
+**Projeto desenvolvido como parte das atividades práticas do **Bootcamp da DIO**, com foco em dados, tecnologia e aplicação prática de Inteligência Artificial no processo de estudo.**
